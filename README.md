@@ -17,10 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [rutvikpatel.co.in](rutvikpatel.co.in)
 
-- 📝 I regularly write articles on [rutvikpatel.co.in](rutvikpatel.co.in)
-
-- 💬 Ask me about **React, Vue and**
-
 - 📫 How to reach me **info@rutvikpatel.co.in**
 
 - 📄 Know about my experiences [rutvikpatel.co.in](rutvikpatel.co.in)
