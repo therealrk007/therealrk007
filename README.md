@@ -13,7 +13,7 @@
 
 - 👯 I've Work On Company Website [Restalgo Tech Private Limited](http://restalgo.com/)
 
-- 🤝 I’m looking for help with [Gratias Ventures Private Limited](http://gratiasgroup.com/)
+- 👯 I've Also Work On Company Website [Gratias Ventures Private Limited](http://gratiasgroup.com/)
 
 - 👨‍💻 All of my projects are available at [rutvikpatel.co.in](rutvikpatel.co.in)
 
