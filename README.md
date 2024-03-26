@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [rutvikpatel.co.in](rutvikpatel.co.in) .
 
-- 📫 How to reach me **info@rutvikpatel.co.in** .
+- 📫 How to reach me **rutvik10.sd@gmail.com** .
 
 - 📄 Know about my experiences [rutvikpatel.co.in](rutvikpatel.co.in)
 
