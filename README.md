@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/therealrk007" target="blank"><img src="https://img.shields.io/twitter/follow/therealrk007?logo=twitter&style=for-the-badge" alt="therealrk007" /></a> </p>
 
-- 🔭 I’m currently working For DevERP Solutions Private Limited(https://deverp.com/).
+- 🔭 I’m currently working For DevERP Solutions Private Limited (https://deverp.com/).
 
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPTS,Bootstap,AngularJS And NodeJS, Also Worked on Wordpress and Shopify.**
 
