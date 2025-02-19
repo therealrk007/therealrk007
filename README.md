@@ -15,11 +15,11 @@
 
 - 👯 I've Also Work On Company Website [Gratias Ventures Private Limited](http://gratiasgroup.com/) .
 
-- 👨‍💻 All of my projects are available at [rutvikpatel.co.in](rutvikpatel.co.in) .
+- 👨‍💻 All of my projects are available at [rutvikpatel.co.in]([rutvikpatel.co.in](https://therealrk007.github.io/Rutvik_Patel_Portfolio/)) .
 
 - 📫 How to reach me **rutvik10.sd@gmail.com** .
 
-- 📄 Know about my experiences [rutvikpatel.co.in](rutvikpatel.co.in)
+- 📄 Know about my experiences [rutvikpatel.co.in]([rutvikpatel.co.in](https://therealrk007.github.io/Rutvik_Patel_Portfolio/))
 
 - ⚡ Fun fact **I Think I am Funny And passionate**.
 
